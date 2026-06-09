@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "apple-fm-mcp"
-version = "1.0.0"
+version = "1.0.1"
 description = "MCP server exposing Apple Foundation Models to Claude Code and Claude Desktop"
 readme = "README.md"
 license = "MIT"
