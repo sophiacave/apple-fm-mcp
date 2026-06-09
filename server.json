@@ -2,7 +2,7 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.sophiacave/apple-fm-mcp",
   "title": "apple-fm-mcp",
-  "description": "Apple Foundation Models MCP server. Generate text, summarize, classify, and extract structured data using on-device Apple Intelligence on macOS 26+. Zero cloud, zero cost, sub-second inference.",
+  "description": "Apple Foundation Models on-device. Generate, summarize, classify via Apple Intelligence.",
   "repository": {
     "url": "https://github.com/sophiacave/apple-fm-mcp",
     "source": "github"
